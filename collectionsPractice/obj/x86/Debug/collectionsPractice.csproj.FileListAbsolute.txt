@@ -1,0 +1,5 @@
+/Users/carogonzalez/Desktop/netCore/collectionsPractice/collectionsPractice/bin/Debug/collectionsPractice.exe
+/Users/carogonzalez/Desktop/netCore/collectionsPractice/collectionsPractice/bin/Debug/collectionsPractice.pdb
+/Users/carogonzalez/Desktop/netCore/collectionsPractice/collectionsPractice/obj/x86/Debug/collectionsPractice.csproj.CoreCompileInputs.cache
+/Users/carogonzalez/Desktop/netCore/collectionsPractice/collectionsPractice/obj/x86/Debug/collectionsPractice.exe
+/Users/carogonzalez/Desktop/netCore/collectionsPractice/collectionsPractice/obj/x86/Debug/collectionsPractice.pdb
